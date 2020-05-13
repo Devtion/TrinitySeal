@@ -13,5 +13,5 @@ TrinitySeal will still be run and managed as usual, but I thought this release m
 
 ## Devtion Edit:
 
-This project is only for learning about licensing system.
+This project is only for learning about .NET licensing system.<br/>
 thanks to [@Centos](https://github.com/TrinityNET) for the knowledge
