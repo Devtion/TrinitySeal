@@ -10,3 +10,8 @@ I hope this respository can be used positively and teach people what I have taug
 TrinitySeal will still be run and managed as usual, but I thought this release may be beneficial to people. Use this wisely!
 
 - Centos, left the community 03/03/2020
+
+## Devtion Edit:
+
+This project is only for learning about licensing system.
+thanks to [@Centos](https://github.com/TrinityNET) for the knowledge
